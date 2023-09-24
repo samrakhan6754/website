@@ -1,0 +1,87 @@
+.nav{
+    float: none;
+}
+.content{
+    width: 1400px;
+    padding-right: 30px;
+    margin: auto;
+    color: rgba(7, 4, 4, 0.952);
+    font-size: larger;
+    padding-left: x;
+   background-color: green;
+   background-image: url(imgone.png);
+   background-repeat: no-repeat;
+ background-position: 800px;
+    padding-top: 100px;
+    padding-left: 40px;
+}
+
+.content h1{
+    font-family: Arial;
+    font-size:50px;
+    padding-top: 20px;
+
+}
+
+.navnewv{
+  margin-top: 50px;
+}
+.navnew li{
+ 
+  border: 1px solid ;
+text-decoration-color: bisque;
+    background-color: green;
+    height: 40px;
+    width: 150px;
+    color: rgb(240, 247, 240);
+    border-color: black;
+    transition: 4s ease;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 5px; /* Add some space between boxes */
+    font-size: 15px;
+
+
+
+}
+
+
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 50px;
+  
+  }
+  
+  .box {
+    width: 23%;
+    height: 400px;
+    border: 1px solid #ccc;
+  }
+  
+  .box-content {
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    padding: 20px;
+  }
+  
+  .box h2, .box h3 {
+    margin: 0;
+
+  }
+  .detail {
+    background-image: url(everthing.jpg);
+    background-repeat: no-repeat;
+    background-position: 600px;
+    padding-left: 30px;
+    padding-top: 30px;
+   }
+  .detail h1{
+    padding: 20px 10px 20px 10px;
+   }
+  
+  
+  
